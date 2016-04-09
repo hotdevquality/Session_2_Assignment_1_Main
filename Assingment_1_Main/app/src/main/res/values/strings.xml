@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Changing App Name</string>
+    <string name="text_msg_1">App Development</string>
+    <string name="action_settings">Settings</string>
+</resources>
